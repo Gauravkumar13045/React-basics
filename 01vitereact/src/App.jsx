@@ -18,6 +18,7 @@ import DigitalClock from './DigitalClock.jsx'
 import UseContext from './componentA.jsx'
 import Stopwatch from './colorChanger.jsx'
 import ToDoList from './error.jsx'
+import Q1 from './Question Folder/Ques1.jsx'
 
 
 function App() {
@@ -52,7 +53,36 @@ const vegetables =
       {fruits.length > 0 ? <List items={fruits} category="Fruits"/> : null}
       {vegetables.length > 0 ? <List items={vegetables} category="Vegetables"/> : null}
        */}
- <ToDoList></ToDoList>
+ {/* <ToDoList></ToDoList> */}
+<Q1></Q1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {/* <Stopwatch></Stopwatch> */}
        {/* <h1>Chai or react with vite | Gaurav kumar</
 {/* <UseContext></UseContext> */}
