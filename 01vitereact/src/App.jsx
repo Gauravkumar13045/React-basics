@@ -19,6 +19,8 @@ import UseContext from './componentA.jsx'
 import Stopwatch from './colorChanger.jsx'
 import ToDoList from './error.jsx'
 import Q1 from './Question Folder/Ques1.jsx'
+import Q2 from './Question Folder/Ques2.jsx'
+
 
 
 function App() {
@@ -55,6 +57,7 @@ const vegetables =
        */}
  {/* <ToDoList></ToDoList> */}
 <Q1></Q1>
+<Q2></Q2>
 
 
 
